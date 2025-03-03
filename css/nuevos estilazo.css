@@ -1,0 +1,128 @@
+@import url("../../../webfonts/Lugrasimo_Regular/stylesheet.css");
+@import url("../../../webfonts/CormorantGaramond_Medium/stylesheet.css");
+
+.bg-ostania1 {
+    background-color: #5B0202;
+    background-position: 0% 0%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: "Lugrasimo Regular";
+    font-style: normal;
+    font-weight: 700;
+    color: rgba(255,255,255,1.00);
+    font-size: large;
+}
+.bg-ostaniatex {
+    font-family: almendra;
+    font-style: normal;
+    font-weight: 900;
+    color: #5B0202;
+    text-align: left;
+}
+.bg-edentex1 {
+    font-family: almendra;
+    font-style: normal;
+    font-weight: 900;
+    color: #FFFFFF;
+    text-align: left;
+}
+.bg-ostaniatexfam {
+    font-family: almendra;
+    font-style: normal;
+    font-weight: 400;
+    color: rgba(91,2,2,1.00);
+    text-align: left;
+}
+.bg-ostaniafami {
+    font-family: almendra;
+    font-style: normal;
+    font-weight: 900;
+    color: rgba(91,2,2,1.00);
+    text-align: center;
+}
+.bg-ostaniatex2 {
+    font-family: almendra;
+    font-style: normal;
+    font-weight: 400;
+    color: rgba(91,2,2,1.00);
+    text-align: left;
+}
+.bg-ostaniatex1 {
+    font-family: almendra;
+    font-style: normal;
+    color: rgba(91,2,2,1.00);
+    text-align: center;
+    font-weight: 700;
+}
+.bg-ostaniatex3 {
+    font-family: almendra;
+    font-style: normal;
+    color: rgba(91,2,2,1.00);
+    text-align: center;
+    font-weight: 700;
+}
+
+
+.bg-ostania2 {
+    background-color: rgba(91,2,2,0.00);
+}
+.bg-osatiatexto {
+    color: rgba(91,2,2,1.00);
+    font-family: "CormorantGaramond Medium";
+    font-size: 130%;
+}
+.bg-osatiatextoeden {
+    color: rgba(91,2,2,1.00);
+    font-family: "CormorantGaramond Medium";
+    font-size: 103%;
+}
+.bg-edenntex2 {
+    color: rgba(255,255,255,1.00);
+    font-family: "CormorantGaramond Medium";
+    font-size: 130%;
+}
+.bg-osatiafamilia2 {
+    color: rgba(91,2,2,1.00);
+    font-family: "CormorantGaramond Medium";
+    font-size: 111%;
+}
+.bg-osatiatexto2 {
+    color: rgba(91,2,2,1.00);
+    font-family: "CormorantGaramond Medium";
+    font-size: 130%;
+    text-align: center;
+}
+.bg-osatiainforme {
+    color: rgba(91,2,2,1.00);
+    font-family: "CormorantGaramond Medium";
+    font-size: 130%;
+    text-align: center;
+}
+.bg-osatiatexto1 {
+    color: #5B0202;
+    font-family: almendra;
+    font-size: 105%;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+
+.bg-ostania4  {
+    background-color: rgba(91,2,2,0.00);
+}
+.bg-ostaniafot {
+    background-color: #5B0202;
+}
+.bg-ostaniabg {
+    background-color: rgba(91,2,2,0.58);
+}
+.bg-eden {
+    background-image: url(../imagenes/eden.jpg);
+    background-size: cover;
+}
+.bg-serv {
+    background-image: url(../imagenes/estatal.png);
+    background-size: cover;
+}
