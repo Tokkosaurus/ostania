@@ -1,6 +1,8 @@
 @import url("../../../webfonts/Lugrasimo_Regular/stylesheet.css");
 @import url("../../../webfonts/CormorantGaramond_Medium/stylesheet.css");
 @import url("../../../webfonts/Monomakh_Regular/stylesheet.css");
+@import url("../../../webfonts/Bentham_Regular/stylesheet.css");
+
 
 
 .bg-ostania1 {
@@ -71,8 +73,8 @@
 }
 .bg-osatiatexto {
     color: rgba(91,2,2,1.00);
-    font-family: "Monomakh Regular";
-    font-size: 130%;
+    font-family: "Bentham Regular";
+    font-size: 143%;
 }
 .bg-osatiatextoeden {
     color: rgba(91,2,2,1.00);
