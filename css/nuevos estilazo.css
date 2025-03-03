@@ -1,5 +1,7 @@
 @import url("../../../webfonts/Lugrasimo_Regular/stylesheet.css");
 @import url("../../../webfonts/CormorantGaramond_Medium/stylesheet.css");
+@import url("../../../webfonts/Monomakh_Regular/stylesheet.css");
+
 
 .bg-ostania1 {
     background-color: #5B0202;
@@ -69,7 +71,7 @@
 }
 .bg-osatiatexto {
     color: rgba(91,2,2,1.00);
-    font-family: "CormorantGaramond Medium";
+    font-family: "Monomakh Regular";
     font-size: 130%;
 }
 .bg-osatiatextoeden {
